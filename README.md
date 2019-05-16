@@ -5,7 +5,8 @@ PINTS website (https://www.cs.ox.ac.uk/projects/PINTS/)
 ## Install
 
 - Install [Hugo](https://gohugo.io/)
-- Clone the repo **recursively**, e.g. `git clone git@github.com:pints-team/website.git --recursive`
+- Clone the repo **recursively**, e.g. `$ git clone git@github.com:pints-team/website.git --recursive`
+- Run a test build: `$ hugo`
 
 ## Testing
 
